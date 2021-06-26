@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Recipes.iml" filepath="$PROJECT_DIR$/.idea/modules/Recipes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Recipes/task/Recipes.Recipes-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Recipes/task/Recipes.Recipes-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Recipes/task/Recipes.Recipes-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Recipes/task/Recipes.Recipes-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Recipes/task/Recipes.Recipes-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Recipes/task/Recipes.Recipes-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/HashMap/Remove long names/Recipes.Topics-HashMap-Remove_long_names.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/HashMap/Remove long names/Recipes.Topics-HashMap-Remove_long_names.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/HashMap/Remove long names/Recipes.Topics-HashMap-Remove_long_names.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/HashMap/Remove long names/Recipes.Topics-HashMap-Remove_long_names.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/HashMap/Remove long names/Recipes.Topics-HashMap-Remove_long_names.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/HashMap/Remove long names/Recipes.Topics-HashMap-Remove_long_names.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/HashMap/The same pairs/Recipes.Topics-HashMap-The_same_pairs.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/HashMap/The same pairs/Recipes.Topics-HashMap-The_same_pairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/HashMap/The same pairs/Recipes.Topics-HashMap-The_same_pairs.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/HashMap/The same pairs/Recipes.Topics-HashMap-The_same_pairs.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/HashMap/The same pairs/Recipes.Topics-HashMap-The_same_pairs.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/HashMap/The same pairs/Recipes.Topics-HashMap-The_same_pairs.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/HashMap/Theory/Recipes.Topics-HashMap-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/HashMap/Theory/Recipes.Topics-HashMap-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/HashMap/Theory/Recipes.Topics-HashMap-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/HashMap/Theory/Recipes.Topics-HashMap-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/HashMap/Theory/Recipes.Topics-HashMap-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/HashMap/Theory/Recipes.Topics-HashMap-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Recipes.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Recipes.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Recipes.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Recipes.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Recipes.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Recipes.util.test.iml" />
+    </modules>
+  </component>
+</project>
